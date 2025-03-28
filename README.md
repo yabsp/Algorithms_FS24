@@ -1,5 +1,5 @@
 # Algorithms_FS24
-This repository contains an environment to practice the implementation of sorting algorithms that have been introduced in the lecture "Algorithm and Data Structures" at the University of Basel in Spring Semester 2024. 
+This repository contains an environment to practice the implementation of sorting algorithms that have been introduced in the lecture "Algorithms and Data Structures" at the University of Basel in Spring Semester 2024. 
 
 ## Content
 - The folder [sorting](sorting/) contains java implementations of sorting algorithms. These java implementations and the according [tests](sorting/src/test/java/SortingTest.java) are written by me.
